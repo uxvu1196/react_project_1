@@ -1,0 +1,30 @@
+main{
+    padding: 57px 27px;
+    background-image: url(../../images/Group.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;
+    /* 
+    background-position-x: right;
+    background-position-y: 75%;
+} */
+}
+
+.main--title{
+    font-size: 39px;
+    letter-spacing: -0.05em;
+}
+
+.main--facts{
+    margin-top: 46px;
+}
+
+.main--facts >li{
+  line-height: 19px;
+  padding-block: 10px;
+}
+
+.main--facts >li::marker {
+font-size: 1.5rem;
+color: #61DAFB;
+
+}

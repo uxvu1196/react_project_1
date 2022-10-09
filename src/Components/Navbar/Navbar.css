@@ -1,0 +1,33 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap'); */
+
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    padding: 30px 25px;
+    height: 90px;
+    font-family: 'Inter', sans-serif;
+}
+
+nav > h1, nav > h2 {
+    margin: 0;
+}
+
+.navName{
+    color: #61DAFB;
+}
+
+nav > img{
+height: 30px;
+margin-right: 7px;
+}
+
+nav > h1 {
+    margin-right: auto;
+    font-weight: 700;
+}
+
+nav > h2 {
+    font-weight: 600;
+}
+
